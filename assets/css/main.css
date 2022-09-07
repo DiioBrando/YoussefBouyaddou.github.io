@@ -2144,10 +2144,10 @@ button,
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
       object-fit: cover;
-      -moz-object-position: center;
-      -webkit-object-position: center;
-      -ms-object-position: center;
-      object-position: center;
+      -moz-object-position: relative;
+      -webkit-object-position: relative;
+      -ms-object-position: relative;
+      object-position: relative;
       width: 100%; }
   @media screen and (orientation: portrait) {
     #banner {
